@@ -6,7 +6,7 @@ Desafio do módulo Docker do curso fullcycle
 
 ```bash
 # docker
-[Docker]("https://www.docker.com/")
+[Docker](https://www.docker.com/)
 ```
 
 ### Build Setup
